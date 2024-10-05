@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend_notes=self.webpackChunkfrontend_notes||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/guohang-blog-site/blog","blogTitle":"Blog","authorsListPath":"/guohang-blog-site/blog/authors"}')}}]);
